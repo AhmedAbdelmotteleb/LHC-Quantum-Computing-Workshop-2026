@@ -19,7 +19,7 @@ There are multiple exercises to complete in the [`Day2`](./Day2) directory:
 - [Deutsch-Jozsa Algorithm Exercise](./Day2/Deutsch_Jozsa.ipynb)  
 - [QAOA Exercise](./Day2/QAOA.ipynb)  
 - [Grover's Algorithm Exercise](./Day2/Grover.ipynb)
-- [QML Exercise](./Day2/PennyLane_QML_Example.ipynb)
+- [QML Exercise](./Day2/PennyLane_QML_Example.ipynb) (note this is the most time consuming of the bunch, better leave to the end)
 - You can also finish up any notebooks from Day 1.
 
 ---
