@@ -1,5 +1,6 @@
 # LHC-Quantum-Computing-Workshop-2026
 
+Based on the exercises from the [LHCb Quantum Computing Workshop (July 2025)](https://github.com/AhmedAbdelmotteleb/LHCb-Quantum-Computing-Workshop)
 ## Day 1
 
 - You are expected to work on **9 questions** in the notebook found in the directory [`Day1/Qiskit_Intro.ipynb`](./Day1/Qiskit_Intro.ipynb).
