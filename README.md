@@ -5,7 +5,7 @@ Based on the exercises from the [LHCb Quantum Computing Workshop (July 2025)](ht
 
 - You are expected to work on **9 questions** in the notebook found in the directory [`Day1/Qiskit_Intro.ipynb`](./Day1/Qiskit_Intro.ipynb).
 - If you mange to finish those, please continue with [`Day1/noise_model.ipynb`](./Day1/noise_model.ipynb), then [`Day1/chsh_bell.ipynb`](./Day1/chsh_bell.ipynb), then [`Day1/transpile_compare.ipynb`](./Day1/transpile_compare.ipynb).
-- If you manage to finish all of the above, you can continue with [`Day1/hhl_toy.ipynb`](./Day1/hhl_toy.ipynb).
+- If you manage to finish all of the above, you can continue with [`Day1/hhl_toy.ipynb`](./Day1/hhl_toy.ipynb). This is a more advanced exercise and represents a significant step up in difficulty, so don't worry if you find it challenging.
 - You are encouraged go at your own pace, explore, and enjoy all Qiskit has to offer. A notebook with the model answers for all the questions will be posted shortly after today's session.
 - If you don't manage to finish on time, you can continue working in Day 2, or in your own time. 
 - You are also encouraged to make use of the [IBM Quantum Composer](https://quantum.ibm.com/composer) (hopefully IBM continues to support it).
