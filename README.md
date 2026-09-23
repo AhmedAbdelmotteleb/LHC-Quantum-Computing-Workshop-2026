@@ -1,4 +1,4 @@
-# LHC-Quantum-Computing-Workshop-2026
+# LHC Quantum Computing Workshop 2026
 
 Based on the exercises from the [LHCb Quantum Computing Workshop (July 2025)](https://github.com/AhmedAbdelmotteleb/LHCb-Quantum-Computing-Workshop)
 ## Day 1
